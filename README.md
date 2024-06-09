@@ -11,3 +11,7 @@ Data was collected through API and webscraping from Github and Stack Overflow. I
 - DashBoard_2.pdf: Dashboard of technology trends (Cognos Analytics link: https://tinyurl.com/DashboardTechnologyTrends)
 
 - Final-capstone-story-template.pdf: Data finding report from technology trends
+
+- Analysis_Python.ipynb: Analysis and visualization with various libraries (e.g., Pandas, Matplotlib)
+
+- CSV / XLSX files: Data set being used
