@@ -1,2 +1,2 @@
 # IBM_Data_Analytics
-Interactive dashboard of technologies trend
+DashBoard_2.pdf: Interactive dashboard of technologies trend
