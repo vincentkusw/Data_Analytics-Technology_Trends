@@ -1,6 +1,13 @@
-# Data Analytics
-DashBoard_2.pdf: Dashboard of technology trends
+# Data Analytics Project on Technology Trends
+This project explored the dynamic landscape of technology, focusing on several areas such as programming languages, web frameworks, and more. It seeks to answer the following questions:
 
-link to access the dashboard in Cognos Analytics: https://ap2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDashBoard%255C&action=view&mode=dashboard&subView=model0000018ff7247591_00000000
+• Which technologies are currently the most popular, and how has their popularity changed?
 
-Final-capstone-story-template.pdf: Data finding report from technology trends
+• What are the underlying implications?
+
+Data was collected through API and webscraping from Github and Stack Overflow. It was then analyzed by creating visualizations and data frames.
+
+## Findings and Reports
+- DashBoard_2.pdf: Dashboard of technology trends (Cognos Analytics link: https://tinyurl.com/DashboardTechnologyTrends)
+
+- Final-capstone-story-template.pdf: Data finding report from technology trends
