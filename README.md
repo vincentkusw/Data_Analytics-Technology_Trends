@@ -8,7 +8,7 @@ This project explored the dynamic landscape of technology, focusing on several a
 Data was collected through API and webscraping from Github and Stack Overflow. It was then analyzed by creating visualizations and data frames.
 
 ## Findings and Reports
-- DashBoard_2.pdf: Dashboard of technology trends (Cognos Analytics link: https://tinyurl.com/DashboardTechnologyTrends)
+- DashBoard.pdf: Dashboard of technology trends (Cognos Analytics link: https://tinyurl.com/DashboardTechnologyTrends)
 
 - Final_Report.pdf: Data finding report from technology trends
 
